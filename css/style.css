@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    border-radius: 10px;
+    font-size: 25px;
+    padding: 15px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.section {
+    background-color: antiquewhite;
+}
+
+p {
+    padding: 10px;
+}
+
+button {
+    padding: 10px;
+    font-size: 20px;
+    text-transform: capitalize;
+    border-radius: 10px;
+    font-weight: 600;
+}
+
+input {
+    height: 35px;
+    width: 70px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: dimgrey;
+    color: #fff;
+    font-size: 25px;
+        
+}
+
+#result {
+    font-weight: 900;
+}
